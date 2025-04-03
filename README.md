@@ -1,9 +1,4 @@
 ﻿# Google Meet Transcription
- Here's a professional `README.md` for your GitHub repository:
-
-```markdown
-# Google Meet Real-Time Transcription with Recall.ai
-
 A full-stack application that provides real-time transcription for Google Meet meetings using Recall.ai's API, with speaker identification and persistent transcript storage.
 
 ## Features
